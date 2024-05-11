@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Computer_Vision/End_To_End_Chest_Cancer_Classification/mlruns/0/8a5864a9952c465d84c6e98fa1da674a/artifacts
+end_time: 1715424092656
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a5864a9952c465d84c6e98fa1da674a
+run_name: colorful-squid-733
+run_uuid: 8a5864a9952c465d84c6e98fa1da674a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715424075968
+status: 3
+tags: []
+user_id: PRITHWISH
